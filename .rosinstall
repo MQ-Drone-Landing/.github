@@ -1,0 +1,18 @@
+- git:
+    local-name: mq_avoidance
+    uri: git@github.com:MQ-Drone-Landing/mq_avoidance.git
+- git:
+    local-name: mq_marker_detection
+    uri: git@github.com:MQ-Drone-Landing/mq_marker_detection.git
+- git:
+    local-name: mq_autoland
+    uri: git@github.com:MQ-Drone-Landing/mq_autoland.git
+- git:
+    local-name: jetson_utils
+    uri: git@github.com:MQ-Drone-Landing/jetson_utils.git
+- git:
+    local-name: mq_msgs
+    uri: git@github.com:MQ-Drone-Landing/mq_msgs.git
+- git:
+    local-name: drone_descriptions
+    uri: git@github.com:MQ-Drone-Landing/drone_descriptions.git
