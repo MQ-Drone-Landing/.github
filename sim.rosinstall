@@ -1,0 +1,6 @@
+- git:
+    local-name: mq_simulation
+    uri: git@github.com:MQ-Drone-Landing/mq_simulation.git
+- git:
+    local-name: mq_simulation_dependencies
+    uri: git@github.com:MQ-Drone-Landing/mq_simulation_dependencies.git
