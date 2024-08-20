@@ -16,3 +16,9 @@
 - git:
     local-name: drone_descriptions
     uri: git@github.com:MQ-Drone-Landing/drone_descriptions.git
+- git:
+    local-name: mq_hw_interfaces
+    uri: git@github.com:MQ-Drone-Landing/mq_hw_interfaces.git
+- git:
+    local-name: mq_markerless
+    uri: git@github.com:MQ-Drone-Landing/mq_markerless.git
